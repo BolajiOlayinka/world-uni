@@ -1,0 +1,416 @@
+[
+    {
+        "name":"Obafemi Awolowo University",
+        "country":"Nigeria", 
+        "location":"Osun State",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ain Shams University",
+        "country":"Egypt",
+        "location":"Cairo",
+        "continent":"Africa"
+    },
+    {
+        "name":"Benha University",
+        "country":"Egypt", 
+        "location":"Benha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Beni Suef University",
+        "country":"Egypt", 
+        "location":"Benha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Cairo University",
+        "country":"Egypt", 
+        "location":"Giza",
+        "continent": "Africa"
+    },
+    {
+        "name":"Alexandria University",
+        "country":"Egypt", 
+        "location":"Alexandria",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Assuit University",
+        "country":"Egypt", 
+        "location":"Assuit",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Azhar University",
+        "country":"Egypt", 
+        "location":"Cairo",
+        "continent": "Africa"   
+    },
+    {
+        "name":"El Zakazik University",
+        "country":"Egypt", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Christian Bilingual University of Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University Shalom of Bunia",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Bandundu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Hope University of Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kasavubu University",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kongo University",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Catholic University of Bukavu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },{
+        "name":"Official University of Bukavu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Cepromad",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Evangelical University in Africa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Adventist University Lukanga",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Catholic University of Graben",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University Divina Gloria Butembo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Gbadolite",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Goma",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Free University of the Great Lakes Countries",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Adventist University of Goma",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of High Technology of Great Lakes",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kivu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Nature Conservation and Development University of Kasugho",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kalemie",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kamina",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kananga",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Notre Dame du Kasai",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kamina Methodist University",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kikwit",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kindu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Marist University of Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"National Pedagogical University",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Protestant University in Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University William Booth",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Technology of the Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Catholic University of the Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University Simon Kimbangu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Free University of Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"American University of Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University Cardinal Malula-Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"PanAfrican University of Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Central University of Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Christian University of Kinshasa",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"International Christian University (ICU)",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kinshasa University Binza",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kisangani",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kolwezi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Cepromad",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Likasi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Lisala",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Lubumbashi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Graduate Institute of Health Science",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Baptist University of the Congo",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Labour University of Lubumbashi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Free University of Luozi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Mbandaka",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Mbuji Mayi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Official University of Mbujimayi",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Eben-Ezer University of Minembwe",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Katanga Methodist University",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Methodist University in Katanga",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Mwene-Ditu in Mwene-Ditu",
+        "country":"Congo", 
+        "location":"El Sharkaya",
+        "continent": "Africa"   
+    }
+    
+]
