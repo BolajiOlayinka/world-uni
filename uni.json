@@ -555,5 +555,311 @@
         "country":"Kenya", 
         "location":"Narok",
         "continent": "Africa"   
+    },
+    {
+        "name":"Africa Graduate University",
+        "country":"Uganda", 
+        "location":"Entebbe",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Africa Renewal University",
+        "country":"Uganda", 
+        "location":"Buloba",
+        "continent": "Africa"   
+    },
+    {
+        "name":"African Rural University",
+        "country":"Uganda", 
+        "location":"Kagadi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"ISBAT University",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Aga Khan University",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"All Saints University",
+        "country":"Uganda", 
+        "location":"Lira",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ankole Western University",
+        "country":"Uganda", 
+        "location":"Kabwohe",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Bishop Stuart University",
+        "country":"Uganda", 
+        "location":"Mbarara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Bugema University",
+        "country":"Uganda", 
+        "location":"Bugema",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Busoga University",
+        "country":"Uganda", 
+        "location":"Iganga",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Cavendish University Uganda",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Great Lakes Regional University",
+        "country":"Uganda", 
+        "location":"Kanungu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Clarke International University",
+        "country":"Uganda", 
+        "location":"Muyenga",
+        "continent": "Africa"   
+    },
+    {
+        "name":"International University of East Africa",
+        "country":"Uganda", 
+        "location":"Kansanga",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Islamic University in Uganda",
+        "country":"Uganda", 
+        "location":"Mbale",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kampala International University",
+        "country":"Uganda", 
+        "location":"Kansanga",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kampala University",
+        "country":"Uganda", 
+        "location":"Ggaba",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kumi University",
+        "country":"Uganda", 
+        "location":"Kumi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"LivingStone International University",
+        "country":"Uganda", 
+        "location":"Mbale",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Muteesa I Royal University",
+        "country":"Uganda", 
+        "location":"Masaka",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mountains of the Moon University",
+        "country":"Uganda", 
+        "location":"Fort Portal",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ndejje University",
+        "country":"Uganda", 
+        "location":"Ndejje",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Nexus International University",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Nkumba University",
+        "country":"Uganda", 
+        "location":"Nkumba",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Nsaka University",
+        "country":"Uganda", 
+        "location":"Jinja",
+        "continent": "Africa"   
+    },
+    {
+        "name":"King Ceaser University",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Lawrence University",
+        "country":"Uganda", 
+        "location":"Mengo",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Stafford University Uganda",
+        "country":"Uganda", 
+        "location":"Kisugu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Uganda Christian University",
+        "country":"Uganda", 
+        "location":"Mengo",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Uganda Martyrs University",
+        "country":"Uganda", 
+        "location":"Mukono",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Lawrence University",
+        "country":"Uganda", 
+        "location":"Nkozi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kisubi",
+        "country":"Uganda", 
+        "location":"Kisubi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Uganda Pentecostal University",
+        "country":"Uganda", 
+        "location":"Fort Portal",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of the Sacred Heart Gulu",
+        "country":"Uganda", 
+        "location":"Gulu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Uganda Technology and Management University",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Victoria University Uganda",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ibanda University",
+        "country":"Uganda", 
+        "location":"Ibanda",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Limkokwing University of Creative Technology",
+        "country":"Uganda", 
+        "location":"Namataba",
+        "continent": "Africa"   
+    },
+    {
+        "name":"African Bible University",
+        "country":"Uganda", 
+        "location":"Lubowa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Metropolitan International University",
+        "country":"Uganda", 
+        "location":"Bufumbira",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Busitema University",
+        "country":"Uganda", 
+        "location":"Busitema",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Gulu University",
+        "country":"Uganda", 
+        "location":"Gulu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kabale University",
+        "country":"Uganda", 
+        "location":"Kabale",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kyambogo University",
+        "country":"Uganda", 
+        "location":"Kyambogo",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Lira University",
+        "country":"Uganda", 
+        "location":"Lira",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Makerere University",
+        "country":"Uganda", 
+        "location":"Makerere",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Makerere University Business School",
+        "country":"Uganda", 
+        "location":"Nakawa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mbarara University of Science and Technology",
+        "country":"Uganda", 
+        "location":"Mbarara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Muni University",
+        "country":"Uganda", 
+        "location":"Arua",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Soroti University",
+        "country":"Uganda", 
+        "location":"Soroti",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Uganda Management Institute",
+        "country":"Uganda", 
+        "location":"Kampala",
+        "continent": "Africa"   
     }
 ]
