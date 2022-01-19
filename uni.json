@@ -407,10 +407,153 @@
         "continent": "Africa"   
     },
     {
-        "name":"University of Mwene-Ditu in Mwene-Ditu",
+        "name":"University of Mwene-Ditu",
         "country":"Congo", 
         "location":"Mwene-Ditu",
         "continent": "Africa"   
+    },
+    {
+        "name":"University of Nairobi",
+        "country":"Kenya", 
+        "location":"Nairobi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Moi University",
+        "country":"Kenya", 
+        "location":"Eldoret",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kenyatta University",
+        "country":"Kenya", 
+        "location":"Kiambu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Egerton University",
+        "country":"Kenya", 
+        "location":"Njoro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Maseno University",
+        "country":"Kenya", 
+        "location":"Maseno",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jomo Kenyatta University of Agriculture and Technology",
+        "country":"Kenya", 
+        "location":"Kiambu",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Technical University of Mombasa",
+        "country":"Kenya", 
+        "location":"Mombasa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Masinde Muliro University of Science and Technology",
+        "country":"Kenya", 
+        "location":"Kakamega",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dedan Kimathi University of Technology",
+        "country":"Kenya", 
+        "location":"NNyeri",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Chuka University",
+        "country":"Kenya", 
+        "location":"Chuka",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Laikipia University",
+        "country":"Kenya", 
+        "location":"Nairobi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"South Eastern Kenya University",
+        "country":"Kenya", 
+        "location":"Kitui",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kisii University",
+        "country":"Kenya", 
+        "location":"Kisii",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Multimedia University of Kenya",
+        "country":"Kenya", 
+        "location":"Nairobi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Kabianga",
+        "country":"Kenya", 
+        "location":"Kericho",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Karatina University",
+        "country":"Kenya", 
+        "location":"Karatina",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Meru University of Science and Technology",
+        "country":"Kenya", 
+        "location":"Meru",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kirinyaga University",
+        "country":"Kenya", 
+        "location":"Kerugoya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Pwani University",
+        "country":"Kenya", 
+        "location":"Kilifi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Murang'a University of Technology",
+        "country":"Kenya", 
+        "location":"Murang'a",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Machakos University",
+        "country":"Kenya", 
+        "location":"Machakos",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Eldoret",
+        "country":"Kenya", 
+        "location":"Eldoret",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kibabii University",
+        "country":"Kenya", 
+        "location":"Bungoma County",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Maasai Mara University",
+        "country":"Kenya", 
+        "location":"Narok",
+        "continent": "Africa"   
     }
-    
 ]
