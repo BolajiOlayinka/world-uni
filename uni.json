@@ -861,5 +861,113 @@
         "country":"Uganda", 
         "location":"Kampala",
         "continent": "Africa"   
+    },
+    {
+        "name":"Adama University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Addis Ababa Commercial College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Addis Ababa Science and Technology University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Addis Ababa University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Addis Continental Institute of Public Health",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Adigrat University",
+        "country":"Ethopia", 
+        "location":"Tigray",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Admas University College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"ALKAN Health Science Business and Technology College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ambo University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Arba Minch University",
+        "country":"Ethopia", 
+        "location":"SNNPR",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Arsi University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Axum University",
+        "country":"Ethopia", 
+        "location":"Tigray",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Bahir Dar University",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"City University College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Closys College",
+        "country":"Ethopia", 
+        "location":"Tigray",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dandii Boruu College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Debre Berhan University",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Debre Markos University",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
     }
 ]
