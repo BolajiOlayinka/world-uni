@@ -969,5 +969,233 @@
         "country":"Ethopia", 
         "location":"Amhara",
         "continent": "Africa"   
+    },
+    {
+        "name":"Defence University College of Engineering",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dessie Teacher's Education College",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dilla University",
+        "country":"Ethopia", 
+        "location":"SNNPR",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dire Dawa University",
+        "country":"Ethopia", 
+        "location":"Dire Dawa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Dynamic International University College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ethiopian Catholic University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ethiopian Civil Service University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ethiopian Institute of Architecture, Building Construction and City Development",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Grace College of Business and Computer Science",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Haramaya University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Hawassa University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Infonet College",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"International Leadership Institute",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jethro Leadership & Management Institute",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jijiga University",
+        "country":"Ethopia", 
+        "location":"Somali",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jimma College of Teachers Education",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jimma Teachers College",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Jimma University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Kunuz College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Madda Walabu University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mekelle Institute of Technology",
+        "country":"Ethopia", 
+        "location":"Tigray",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mekelle University",
+        "country":"Ethopia", 
+        "location":"Tigray",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mizan–Tepi University",
+        "country":"Ethopia", 
+        "location":"South West",
+        "continent": "Africa"   
+    },
+    {
+        "name":"New Generation University College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"PESC Information Systems College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Rift Valley University College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Royal College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Samara University",
+        "country":"Ethopia", 
+        "location":"Afar",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Mary's University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Paul's Hospital Millennium Medical College",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Unity University",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Urban Planning College (Ecole)",
+        "country":"Ethopia", 
+        "location":"Addis Ababa",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Gondar",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Wachemo University",
+        "country":"Ethopia", 
+        "location":"SNNPR",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Washera College",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Wolaita Sodo University",
+        "country":"Ethopia", 
+        "location":"SNNPR",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Wollega University",
+        "country":"Ethopia", 
+        "location":"Oromia",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Wollo University",
+        "country":"Ethopia", 
+        "location":"Amhara",
+        "continent": "Africa"   
     }
 ]
