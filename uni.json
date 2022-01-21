@@ -1197,5 +1197,293 @@
         "country":"Ethopia", 
         "location":"Amhara",
         "continent": "Africa"   
+    },
+    {
+        "name":"University of Dar es Salaam",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Dodoma",
+        "country":"Tanzania", 
+        "location":"Dodoma",
+        "continent": "Africa"   
+    },
+    {
+        "name":"The Open University of Tanzania",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Institute of Accountancy Arusha",
+        "country":"Tanzania", 
+        "location":"Arusha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Ardhi University",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"State University of Zanzibar",
+        "country":"Tanzania", 
+        "location":"Zanzibar Urban",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mzumbe University",
+        "country":"Tanzania", 
+        "location":"Morogoro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Sokoine University of Agriculture",
+        "country":"Tanzania", 
+        "location":"Morogoro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Muhimbili University of Health and Allied Sciences",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Nelson Mandela African Institute of Science and Technology",
+        "country":"Tanzania", 
+        "location":"Arusha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"UKatavi University of Agriculture",
+        "country":"Tanzania", 
+        "location":"Katavi",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mbeya University of Science and Technology",
+        "country":"Tanzania", 
+        "location":"Mbeya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Moshi Co-operative University",
+        "country":"Tanzania", 
+        "location":"Kilimanjaro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Hubert Kairuki Memorial University",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"International Medical and Technological University",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Tumaini University Makumira",
+        "country":"Tanzania", 
+        "location":"Arusha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Augustine University of Tanzania",
+        "country":"Tanzania", 
+        "location":"Mwanza",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Zanzibar University",
+        "country":"Tanzania", 
+        "location":"Zanzibar Urban",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Mount Meru University",
+        "country":"Tanzania", 
+        "location":"Arusha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Arusha",
+        "country":"Tanzania", 
+        "location":"Arusha",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Teofilo Kisanji University",
+        "country":"Tanzania", 
+        "location":"Mbeya",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Muslim University of Morogoro",
+        "country":"Tanzania", 
+        "location":"Morogoro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. John's University of Tanzania",
+        "country":"Tanzania", 
+        "location":"Dodoma",
+        "continent": "Africa"   
+    },
+    {
+        "name":"University of Bagamoyo",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Eckernforde Tanga University",
+        "country":"Tanzania", 
+        "location":"Tanga",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Catholic University of Health and Allied Sciences",
+        "country":"Tanzania", 
+        "location":"Mwanza",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"St. Joseph University In Tanzania",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"United African University of Tanzania",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Sebastian Kolowa Memorial University",
+        "country":"Tanzania", 
+        "location":"Tanga",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Tanzania International University",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"University of Iringa",
+        "country":"Tanzania", 
+        "location":"Iringa",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"University College of Education Zanzibar",
+        "country":"Tanzania", 
+        "location":"Zanzibar Urban",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Dar es Salaam University College of Education",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Moshi University College of Cooperative and Business Studies",
+        "country":"Tanzania", 
+        "location":"Kilimanjaro",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Mkwawa University College of Education",
+        "country":"Tanzania", 
+        "location":"Iringa",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Mwalimu Nyerere Memorial Academy",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Kampala International University Dar es Salaam College",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Mwenge University College of Education",
+        "country":"Tanzania", 
+        "location":"Kilimanjaro",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Kilimanjaro Christian Medical College",
+        "country":"Tanzania", 
+        "location":"Kilimanjaro",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"Ruaha Catholic University",
+        "country":"Tanzania", 
+        "location":"Iringa",
+        "continent": "Africa"   
+    }, 
+    {
+        "name":"St. Francis University College of Health and Allied Sciences",
+        "country":"Tanzania", 
+        "location":"Morogoro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Joseph University College of Agricultural Sciences and Technology",
+        "country":"Tanzania", 
+        "location":"Ruvuma",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Joseph University College of Information and Technology",
+        "country":"Tanzania", 
+        "location":"Ruvuma",
+        "continent": "Africa"   
+    },
+    {
+        "name":"St. Joseph University College of Management and Commerce",
+        "country":"Tanzania", 
+        "location":"Njombe",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Stefano Moshi Memorial University College",
+        "country":"Tanzania", 
+        "location":"Kilimanjaro",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Stella Maris Mtwara University College",
+        "country":"Tanzania", 
+        "location":"Mtwara",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Tumaini University Dar es Salaam College",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
+    },
+    {
+        "name":"Al-Maktoum College of Engineering and Technology",
+        "country":"Tanzania", 
+        "location":"Dar es Salaam",
+        "continent": "Africa"   
     }
 ]
