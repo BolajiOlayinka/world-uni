@@ -1,1489 +1,1820 @@
 [
     {
-        "name":"Obafemi Awolowo University",
-        "country":"Nigeria", 
-        "location":"Osun State",
-        "continent": "Africa"   
-    },
-    {
-        "name":"Ain Shams University",
-        "country":"Egypt",
-        "location":"Cairo",
-        "continent":"Africa"
-    },
-    {
-        "name":"Benha University",
-        "country":"Egypt", 
-        "location":"Benha",
-        "continent": "Africa"   
-    },
-    {
-        "name":"Beni Suef University",
-        "country":"Egypt", 
-        "location":"Benha",
-        "continent": "Africa"   
-    },
-    {
-        "name":"Cairo University",
-        "country":"Egypt", 
-        "location":"Giza",
+        "name": "Obafemi Awolowo University",
+        "country": "Nigeria",
+        "location": "Osun State",
         "continent": "Africa"
     },
     {
-        "name":"Alexandria University",
-        "country":"Egypt", 
-        "location":"Alexandria",
-        "continent": "Africa"   
+        "name": "Ain Shams University",
+        "country": "Egypt",
+        "location": "Cairo",
+        "continent": "Africa"
     },
     {
-        "name":"Assuit University",
-        "country":"Egypt", 
-        "location":"Assuit",
-        "continent": "Africa"   
+        "name": "Benha University",
+        "country": "Egypt",
+        "location": "Benha",
+        "continent": "Africa"
     },
     {
-        "name":"Azhar University",
-        "country":"Egypt", 
-        "location":"Cairo",
-        "continent": "Africa"   
+        "name": "Beni Suef University",
+        "country": "Egypt",
+        "location": "Benha",
+        "continent": "Africa"
     },
     {
-        "name":"El Zakazik University",
-        "country":"Egypt", 
-        "location":"El Sharkaya",
-        "continent": "Africa"   
+        "name": "Cairo University",
+        "country": "Egypt",
+        "location": "Giza",
+        "continent": "Africa"
     },
     {
-        "name":"Christian Bilingual University of Congo",
-        "country":"Congo", 
-        "location":"Beni",
-        "continent": "Africa"   
+        "name": "Alexandria University",
+        "country": "Egypt",
+        "location": "Alexandria",
+        "continent": "Africa"
     },
     {
-        "name":"University Shalom of Bunia",
-        "country":"Congo", 
-        "location":"Bunia",
-        "continent": "Africa"   
+        "name": "Assuit University",
+        "country": "Egypt",
+        "location": "Assuit",
+        "continent": "Africa"
     },
     {
-        "name":"University of Bandundu",
-        "country":"Congo", 
-        "location":"Bandudu",
-        "continent": "Africa"   
+        "name": "Azhar University",
+        "country": "Egypt",
+        "location": "Cairo",
+        "continent": "Africa"
     },
     {
-        "name":"Hope University of Congo",
-        "country":"Congo", 
-        "location":"Baraka",
-        "continent": "Africa"   
+        "name": "El Zakazik University",
+        "country": "Egypt",
+        "location": "El Sharkaya",
+        "continent": "Africa"
     },
     {
-        "name":"Kasavubu University",
-        "country":"Congo", 
-        "location":"Bas-Congo",
-        "continent": "Africa"   
+        "name": "Christian Bilingual University of Congo",
+        "country": "Congo",
+        "location": "Beni",
+        "continent": "Africa"
     },
     {
-        "name":"Kongo University",
-        "country":"Congo", 
-        "location":"Bas-Congo",
-        "continent": "Africa"   
+        "name": "University Shalom of Bunia",
+        "country": "Congo",
+        "location": "Bunia",
+        "continent": "Africa"
     },
     {
-        "name":"Catholic University of Bukavu",
-        "country":"Congo", 
-        "location":"Bukavu",
-        "continent": "Africa"   
-    },{
-        "name":"Official University of Bukavu",
-        "country":"Congo", 
-        "location":"Bukavu",
-        "continent": "Africa"   
+        "name": "University of Bandundu",
+        "country": "Congo",
+        "location": "Bandudu",
+        "continent": "Africa"
     },
     {
-        "name":"University of Cepromad",
-        "country":"Congo", 
-        "location":"Bukavu",
-        "continent": "Africa"   
+        "name": "Hope University of Congo",
+        "country": "Congo",
+        "location": "Baraka",
+        "continent": "Africa"
     },
     {
-        "name":"Evangelical University in Africa",
-        "country":"Congo", 
-        "location":"Bukavu",
-        "continent": "Africa"   
+        "name": "Kasavubu University",
+        "country": "Congo",
+        "location": "Bas-Congo",
+        "continent": "Africa"
     },
     {
-        "name":"Adventist University Lukanga",
-        "country":"Congo", 
-        "location":"Butembo",
-        "continent": "Africa"   
+        "name": "Kongo University",
+        "country": "Congo",
+        "location": "Bas-Congo",
+        "continent": "Africa"
     },
     {
-        "name":"Catholic University of Graben",
-        "country":"Congo", 
-        "location":"Butembo",
-        "continent": "Africa"   
+        "name": "Catholic University of Bukavu",
+        "country": "Congo",
+        "location": "Bukavu",
+        "continent": "Africa"
     },
     {
-        "name":"University Divina Gloria Butembo",
-        "country":"Congo", 
-        "location":"Butembo",
-        "continent": "Africa"   
+        "name": "Official University of Bukavu",
+        "country": "Congo",
+        "location": "Bukavu",
+        "continent": "Africa"
     },
     {
-        "name":"University of Gbadolite",
-        "country":"Congo", 
-        "location":"Gbadolite",
-        "continent": "Africa"   
+        "name": "University of Cepromad",
+        "country": "Congo",
+        "location": "Bukavu",
+        "continent": "Africa"
     },
     {
-        "name":"University of Goma",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "Evangelical University in Africa",
+        "country": "Congo",
+        "location": "Bukavu",
+        "continent": "Africa"
     },
     {
-        "name":"Free University of the Great Lakes Countries",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "Adventist University Lukanga",
+        "country": "Congo",
+        "location": "Butembo",
+        "continent": "Africa"
     },
     {
-        "name":"Adventist University of Goma",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "Catholic University of Graben",
+        "country": "Congo",
+        "location": "Butembo",
+        "continent": "Africa"
     },
     {
-        "name":"University of High Technology of Great Lakes",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "University Divina Gloria Butembo",
+        "country": "Congo",
+        "location": "Butembo",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kivu",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "University of Gbadolite",
+        "country": "Congo",
+        "location": "Gbadolite",
+        "continent": "Africa"
     },
     {
-        "name":"Nature Conservation and Development University of Kasugho",
-        "country":"Congo", 
-        "location":"Goma",
-        "continent": "Africa"   
+        "name": "University of Goma",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kalemie",
-        "country":"Congo", 
-        "location":"Kalemie",
-        "continent": "Africa"   
+        "name": "Free University of the Great Lakes Countries",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kamina",
-        "country":"Congo", 
-        "location":"Kamina",
-        "continent": "Africa"   
+        "name": "Adventist University of Goma",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kananga",
-        "country":"Congo", 
-        "location":"Kananga",
-        "continent": "Africa"   
+        "name": "University of High Technology of Great Lakes",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"University of Notre Dame du Kasai",
-        "country":"Congo", 
-        "location":"Kananga",
-        "continent": "Africa"   
+        "name": "University of Kivu",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"Kamina Methodist University",
-        "country":"Congo", 
-        "location":"Kananga",
-        "continent": "Africa"   
+        "name": "Nature Conservation and Development University of Kasugho",
+        "country": "Congo",
+        "location": "Goma",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kikwit",
-        "country":"Congo", 
-        "location":"Kikwit",
-        "continent": "Africa"   
+        "name": "University of Kalemie",
+        "country": "Congo",
+        "location": "Kalemie",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kindu",
-        "country":"Congo", 
-        "location":"Kindu",
-        "continent": "Africa"   
+        "name": "University of Kamina",
+        "country": "Congo",
+        "location": "Kamina",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Kananga",
+        "country": "Congo",
+        "location": "Kananga",
+        "continent": "Africa"
     },
     {
-        "name":"Marist University of Congo",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Notre Dame du Kasai",
+        "country": "Congo",
+        "location": "Kananga",
+        "continent": "Africa"
     },
     {
-        "name":"National Pedagogical University",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "Kamina Methodist University",
+        "country": "Congo",
+        "location": "Kananga",
+        "continent": "Africa"
     },
     {
-        "name":"Protestant University in Congo",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Kikwit",
+        "country": "Congo",
+        "location": "Kikwit",
+        "continent": "Africa"
     },
     {
-        "name":"University William Booth",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Kindu",
+        "country": "Congo",
+        "location": "Kindu",
+        "continent": "Africa"
     },
     {
-        "name":"University of Technology of the Congo",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Catholic University of the Congo",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "Marist University of Congo",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University Simon Kimbangu",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "National Pedagogical University",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Free University of Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "Protestant University in Congo",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"American University of Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University William Booth",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University Cardinal Malula-Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University of Technology of the Congo",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"PanAfrican University of Congo",
-        "country":"Congo", 
-        "location":"El Sharkaya",
-        "continent": "Africa"   
+        "name": "Catholic University of the Congo",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Central University of Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University Simon Kimbangu",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Christian University of Kinshasa",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "Free University of Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"International Christian University (ICU)",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "American University of Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Kinshasa University Binza",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "University Cardinal Malula-Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kisangani",
-        "country":"Congo", 
-        "location":"Kinshasa",
-        "continent": "Africa"   
+        "name": "PanAfrican University of Congo",
+        "country": "Congo",
+        "location": "El Sharkaya",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kolwezi",
-        "country":"Congo", 
-        "location":"Kolwezi",
-        "continent": "Africa"   
+        "name": "Central University of Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Cepromad",
-        "country":"Congo", 
-        "location":"Kolwezi",
-        "continent": "Africa"   
+        "name": "Christian University of Kinshasa",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Likasi",
-        "country":"Congo", 
-        "location":"Likasi",
-        "continent": "Africa"   
+        "name": "International Christian University (ICU)",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Lisala",
-        "country":"Congo", 
-        "location":"Lisala",
-        "continent": "Africa"   
+        "name": "Kinshasa University Binza",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Lubumbashi",
-        "country":"Congo", 
-        "location":"Lubumbashi",
-        "continent": "Africa"   
+        "name": "University of Kisangani",
+        "country": "Congo",
+        "location": "Kinshasa",
+        "continent": "Africa"
     },
     {
-        "name":"Protestant University of Lubumbashi",
-        "country":"Congo", 
-        "location":"Lubumbashi",
-        "continent": "Africa"   
+        "name": "University of Kolwezi",
+        "country": "Congo",
+        "location": "Kolwezi",
+        "continent": "Africa"
     },
     {
-        "name":"Graduate Institute of Health Science",
-        "country":"Congo", 
-        "location":"Lubumbashi",
-        "continent": "Africa"   
+        "name": "University of Cepromad",
+        "country": "Congo",
+        "location": "Kolwezi",
+        "continent": "Africa"
     },
     {
-        "name":"Baptist University of the Congo",
-        "country":"Congo", 
-        "location":"Lubumbashi",
-        "continent": "Africa"   
+        "name": "University of Likasi",
+        "country": "Congo",
+        "location": "Likasi",
+        "continent": "Africa"
     },
     {
-        "name":"Labour University of Lubumbashi",
-        "country":"Congo", 
-        "location":"Lubumbashi",
-        "continent": "Africa"   
+        "name": "University of Lisala",
+        "country": "Congo",
+        "location": "Lisala",
+        "continent": "Africa"
     },
     {
-        "name":"Free University of Luozi",
-        "country":"Congo", 
-        "location":"Luozi",
-        "continent": "Africa"   
+        "name": "University of Lubumbashi",
+        "country": "Congo",
+        "location": "Lubumbashi",
+        "continent": "Africa"
     },
     {
-        "name":"University of Mbandaka",
-        "country":"Congo", 
-        "location":"Mbandaka",
-        "continent": "Africa"   
+        "name": "Protestant University of Lubumbashi",
+        "country": "Congo",
+        "location": "Lubumbashi",
+        "continent": "Africa"
     },
     {
-        "name":"University of Mbuji Mayi",
-        "country":"Congo", 
-        "location":"Mbuji-Mayi",
-        "continent": "Africa"   
+        "name": "Graduate Institute of Health Science",
+        "country": "Congo",
+        "location": "Lubumbashi",
+        "continent": "Africa"
     },
     {
-        "name":"Official University of Mbujimayi",
-        "country":"Congo", 
-        "location":"Mbuji-Mayi",
-        "continent": "Africa"   
+        "name": "Baptist University of the Congo",
+        "country": "Congo",
+        "location": "Lubumbashi",
+        "continent": "Africa"
     },
     {
-        "name":"Eben-Ezer University of Minembwe",
-        "country":"Congo", 
-        "location":"Minembwe",
-        "continent": "Africa"   
+        "name": "Labour University of Lubumbashi",
+        "country": "Congo",
+        "location": "Lubumbashi",
+        "continent": "Africa"
     },
     {
-        "name":"Katanga Methodist University",
-        "country":"Congo", 
-        "location":"Mulungwishi",
-        "continent": "Africa"   
+        "name": "Free University of Luozi",
+        "country": "Congo",
+        "location": "Luozi",
+        "continent": "Africa"
     },
     {
-        "name":"University of Mwene-Ditu",
-        "country":"Congo", 
-        "location":"Mwene-Ditu",
-        "continent": "Africa"   
+        "name": "University of Mbandaka",
+        "country": "Congo",
+        "location": "Mbandaka",
+        "continent": "Africa"
     },
     {
-        "name":"University of Nairobi",
-        "country":"Kenya", 
-        "location":"Nairobi",
-        "continent": "Africa"   
+        "name": "University of Mbuji Mayi",
+        "country": "Congo",
+        "location": "Mbuji-Mayi",
+        "continent": "Africa"
     },
     {
-        "name":"Moi University",
-        "country":"Kenya", 
-        "location":"Eldoret",
-        "continent": "Africa"   
+        "name": "Official University of Mbujimayi",
+        "country": "Congo",
+        "location": "Mbuji-Mayi",
+        "continent": "Africa"
     },
     {
-        "name":"Kenyatta University",
-        "country":"Kenya", 
-        "location":"Kiambu",
-        "continent": "Africa"   
+        "name": "Eben-Ezer University of Minembwe",
+        "country": "Congo",
+        "location": "Minembwe",
+        "continent": "Africa"
     },
     {
-        "name":"Egerton University",
-        "country":"Kenya", 
-        "location":"Njoro",
-        "continent": "Africa"   
+        "name": "Katanga Methodist University",
+        "country": "Congo",
+        "location": "Mulungwishi",
+        "continent": "Africa"
     },
     {
-        "name":"Maseno University",
-        "country":"Kenya", 
-        "location":"Maseno",
-        "continent": "Africa"   
+        "name": "University of Mwene-Ditu",
+        "country": "Congo",
+        "location": "Mwene-Ditu",
+        "continent": "Africa"
     },
     {
-        "name":"Jomo Kenyatta University of Agriculture and Technology",
-        "country":"Kenya", 
-        "location":"Kiambu",
-        "continent": "Africa"   
+        "name": "University of Nairobi",
+        "country": "Kenya",
+        "location": "Nairobi",
+        "continent": "Africa"
     },
     {
-        "name":"Technical University of Mombasa",
-        "country":"Kenya", 
-        "location":"Mombasa",
-        "continent": "Africa"   
+        "name": "Moi University",
+        "country": "Kenya",
+        "location": "Eldoret",
+        "continent": "Africa"
     },
     {
-        "name":"Masinde Muliro University of Science and Technology",
-        "country":"Kenya", 
-        "location":"Kakamega",
-        "continent": "Africa"   
+        "name": "Kenyatta University",
+        "country": "Kenya",
+        "location": "Kiambu",
+        "continent": "Africa"
     },
     {
-        "name":"Dedan Kimathi University of Technology",
-        "country":"Kenya", 
-        "location":"NNyeri",
-        "continent": "Africa"   
+        "name": "Egerton University",
+        "country": "Kenya",
+        "location": "Njoro",
+        "continent": "Africa"
     },
     {
-        "name":"Chuka University",
-        "country":"Kenya", 
-        "location":"Chuka",
-        "continent": "Africa"   
+        "name": "Maseno University",
+        "country": "Kenya",
+        "location": "Maseno",
+        "continent": "Africa"
     },
     {
-        "name":"Laikipia University",
-        "country":"Kenya", 
-        "location":"Nairobi",
-        "continent": "Africa"   
+        "name": "Jomo Kenyatta University of Agriculture and Technology",
+        "country": "Kenya",
+        "location": "Kiambu",
+        "continent": "Africa"
     },
     {
-        "name":"South Eastern Kenya University",
-        "country":"Kenya", 
-        "location":"Kitui",
-        "continent": "Africa"   
+        "name": "Technical University of Mombasa",
+        "country": "Kenya",
+        "location": "Mombasa",
+        "continent": "Africa"
     },
     {
-        "name":"Kisii University",
-        "country":"Kenya", 
-        "location":"Kisii",
-        "continent": "Africa"   
+        "name": "Masinde Muliro University of Science and Technology",
+        "country": "Kenya",
+        "location": "Kakamega",
+        "continent": "Africa"
     },
     {
-        "name":"Multimedia University of Kenya",
-        "country":"Kenya", 
-        "location":"Nairobi",
-        "continent": "Africa"   
+        "name": "Dedan Kimathi University of Technology",
+        "country": "Kenya",
+        "location": "NNyeri",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kabianga",
-        "country":"Kenya", 
-        "location":"Kericho",
-        "continent": "Africa"   
+        "name": "Chuka University",
+        "country": "Kenya",
+        "location": "Chuka",
+        "continent": "Africa"
     },
     {
-        "name":"Karatina University",
-        "country":"Kenya", 
-        "location":"Karatina",
-        "continent": "Africa"   
+        "name": "Laikipia University",
+        "country": "Kenya",
+        "location": "Nairobi",
+        "continent": "Africa"
     },
     {
-        "name":"Meru University of Science and Technology",
-        "country":"Kenya", 
-        "location":"Meru",
-        "continent": "Africa"   
+        "name": "South Eastern Kenya University",
+        "country": "Kenya",
+        "location": "Kitui",
+        "continent": "Africa"
     },
     {
-        "name":"Kirinyaga University",
-        "country":"Kenya", 
-        "location":"Kerugoya",
-        "continent": "Africa"   
+        "name": "Kisii University",
+        "country": "Kenya",
+        "location": "Kisii",
+        "continent": "Africa"
     },
     {
-        "name":"Pwani University",
-        "country":"Kenya", 
-        "location":"Kilifi",
-        "continent": "Africa"   
+        "name": "Multimedia University of Kenya",
+        "country": "Kenya",
+        "location": "Nairobi",
+        "continent": "Africa"
     },
     {
-        "name":"Murang'a University of Technology",
-        "country":"Kenya", 
-        "location":"Murang'a",
-        "continent": "Africa"   
+        "name": "University of Kabianga",
+        "country": "Kenya",
+        "location": "Kericho",
+        "continent": "Africa"
     },
     {
-        "name":"Machakos University",
-        "country":"Kenya", 
-        "location":"Machakos",
-        "continent": "Africa"   
+        "name": "Karatina University",
+        "country": "Kenya",
+        "location": "Karatina",
+        "continent": "Africa"
     },
     {
-        "name":"University of Eldoret",
-        "country":"Kenya", 
-        "location":"Eldoret",
-        "continent": "Africa"   
+        "name": "Meru University of Science and Technology",
+        "country": "Kenya",
+        "location": "Meru",
+        "continent": "Africa"
     },
     {
-        "name":"Kibabii University",
-        "country":"Kenya", 
-        "location":"Bungoma County",
-        "continent": "Africa"   
+        "name": "Kirinyaga University",
+        "country": "Kenya",
+        "location": "Kerugoya",
+        "continent": "Africa"
     },
     {
-        "name":"Maasai Mara University",
-        "country":"Kenya", 
-        "location":"Narok",
-        "continent": "Africa"   
+        "name": "Pwani University",
+        "country": "Kenya",
+        "location": "Kilifi",
+        "continent": "Africa"
     },
     {
-        "name":"Africa Graduate University",
-        "country":"Uganda", 
-        "location":"Entebbe",
-        "continent": "Africa"   
+        "name": "Murang'a University of Technology",
+        "country": "Kenya",
+        "location": "Murang'a",
+        "continent": "Africa"
     },
     {
-        "name":"Africa Renewal University",
-        "country":"Uganda", 
-        "location":"Buloba",
-        "continent": "Africa"   
+        "name": "Machakos University",
+        "country": "Kenya",
+        "location": "Machakos",
+        "continent": "Africa"
     },
     {
-        "name":"African Rural University",
-        "country":"Uganda", 
-        "location":"Kagadi",
-        "continent": "Africa"   
+        "name": "University of Eldoret",
+        "country": "Kenya",
+        "location": "Eldoret",
+        "continent": "Africa"
     },
     {
-        "name":"ISBAT University",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Kibabii University",
+        "country": "Kenya",
+        "location": "Bungoma County",
+        "continent": "Africa"
     },
     {
-        "name":"Aga Khan University",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Maasai Mara University",
+        "country": "Kenya",
+        "location": "Narok",
+        "continent": "Africa"
     },
     {
-        "name":"All Saints University",
-        "country":"Uganda", 
-        "location":"Lira",
-        "continent": "Africa"   
+        "name": "Africa Graduate University",
+        "country": "Uganda",
+        "location": "Entebbe",
+        "continent": "Africa"
     },
     {
-        "name":"Ankole Western University",
-        "country":"Uganda", 
-        "location":"Kabwohe",
-        "continent": "Africa"   
+        "name": "Africa Renewal University",
+        "country": "Uganda",
+        "location": "Buloba",
+        "continent": "Africa"
     },
     {
-        "name":"Bishop Stuart University",
-        "country":"Uganda", 
-        "location":"Mbarara",
-        "continent": "Africa"   
+        "name": "African Rural University",
+        "country": "Uganda",
+        "location": "Kagadi",
+        "continent": "Africa"
     },
     {
-        "name":"Bugema University",
-        "country":"Uganda", 
-        "location":"Bugema",
-        "continent": "Africa"   
+        "name": "ISBAT University",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Busoga University",
-        "country":"Uganda", 
-        "location":"Iganga",
-        "continent": "Africa"   
+        "name": "Aga Khan University",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Cavendish University Uganda",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "All Saints University",
+        "country": "Uganda",
+        "location": "Lira",
+        "continent": "Africa"
     },
     {
-        "name":"Great Lakes Regional University",
-        "country":"Uganda", 
-        "location":"Kanungu",
-        "continent": "Africa"   
+        "name": "Ankole Western University",
+        "country": "Uganda",
+        "location": "Kabwohe",
+        "continent": "Africa"
     },
     {
-        "name":"Clarke International University",
-        "country":"Uganda", 
-        "location":"Muyenga",
-        "continent": "Africa"   
+        "name": "Bishop Stuart University",
+        "country": "Uganda",
+        "location": "Mbarara",
+        "continent": "Africa"
     },
     {
-        "name":"International University of East Africa",
-        "country":"Uganda", 
-        "location":"Kansanga",
-        "continent": "Africa"   
+        "name": "Bugema University",
+        "country": "Uganda",
+        "location": "Bugema",
+        "continent": "Africa"
     },
     {
-        "name":"Islamic University in Uganda",
-        "country":"Uganda", 
-        "location":"Mbale",
-        "continent": "Africa"   
+        "name": "Busoga University",
+        "country": "Uganda",
+        "location": "Iganga",
+        "continent": "Africa"
     },
     {
-        "name":"Kampala International University",
-        "country":"Uganda", 
-        "location":"Kansanga",
-        "continent": "Africa"   
+        "name": "Cavendish University Uganda",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Kampala University",
-        "country":"Uganda", 
-        "location":"Ggaba",
-        "continent": "Africa"   
+        "name": "Great Lakes Regional University",
+        "country": "Uganda",
+        "location": "Kanungu",
+        "continent": "Africa"
     },
     {
-        "name":"Kumi University",
-        "country":"Uganda", 
-        "location":"Kumi",
-        "continent": "Africa"   
+        "name": "Clarke International University",
+        "country": "Uganda",
+        "location": "Muyenga",
+        "continent": "Africa"
     },
     {
-        "name":"LivingStone International University",
-        "country":"Uganda", 
-        "location":"Mbale",
-        "continent": "Africa"   
+        "name": "International University of East Africa",
+        "country": "Uganda",
+        "location": "Kansanga",
+        "continent": "Africa"
     },
     {
-        "name":"Muteesa I Royal University",
-        "country":"Uganda", 
-        "location":"Masaka",
-        "continent": "Africa"   
+        "name": "Islamic University in Uganda",
+        "country": "Uganda",
+        "location": "Mbale",
+        "continent": "Africa"
     },
     {
-        "name":"Mountains of the Moon University",
-        "country":"Uganda", 
-        "location":"Fort Portal",
-        "continent": "Africa"   
+        "name": "Kampala International University",
+        "country": "Uganda",
+        "location": "Kansanga",
+        "continent": "Africa"
     },
     {
-        "name":"Ndejje University",
-        "country":"Uganda", 
-        "location":"Ndejje",
-        "continent": "Africa"   
+        "name": "Kampala University",
+        "country": "Uganda",
+        "location": "Ggaba",
+        "continent": "Africa"
     },
     {
-        "name":"Nexus International University",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Kumi University",
+        "country": "Uganda",
+        "location": "Kumi",
+        "continent": "Africa"
     },
     {
-        "name":"Nkumba University",
-        "country":"Uganda", 
-        "location":"Nkumba",
-        "continent": "Africa"   
+        "name": "LivingStone International University",
+        "country": "Uganda",
+        "location": "Mbale",
+        "continent": "Africa"
     },
     {
-        "name":"Nsaka University",
-        "country":"Uganda", 
-        "location":"Jinja",
-        "continent": "Africa"   
+        "name": "Muteesa I Royal University",
+        "country": "Uganda",
+        "location": "Masaka",
+        "continent": "Africa"
     },
     {
-        "name":"King Ceaser University",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Mountains of the Moon University",
+        "country": "Uganda",
+        "location": "Fort Portal",
+        "continent": "Africa"
     },
     {
-        "name":"St. Lawrence University",
-        "country":"Uganda", 
-        "location":"Mengo",
-        "continent": "Africa"   
+        "name": "Ndejje University",
+        "country": "Uganda",
+        "location": "Ndejje",
+        "continent": "Africa"
     },
     {
-        "name":"Stafford University Uganda",
-        "country":"Uganda", 
-        "location":"Kisugu",
-        "continent": "Africa"   
+        "name": "Nexus International University",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Uganda Christian University",
-        "country":"Uganda", 
-        "location":"Mengo",
-        "continent": "Africa"   
+        "name": "Nkumba University",
+        "country": "Uganda",
+        "location": "Nkumba",
+        "continent": "Africa"
     },
     {
-        "name":"Uganda Martyrs University",
-        "country":"Uganda", 
-        "location":"Mukono",
-        "continent": "Africa"   
+        "name": "Nsaka University",
+        "country": "Uganda",
+        "location": "Jinja",
+        "continent": "Africa"
     },
     {
-        "name":"St. Lawrence University",
-        "country":"Uganda", 
-        "location":"Nkozi",
-        "continent": "Africa"   
+        "name": "King Ceaser University",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"University of Kisubi",
-        "country":"Uganda", 
-        "location":"Kisubi",
-        "continent": "Africa"   
+        "name": "St. Lawrence University",
+        "country": "Uganda",
+        "location": "Mengo",
+        "continent": "Africa"
     },
     {
-        "name":"Uganda Pentecostal University",
-        "country":"Uganda", 
-        "location":"Fort Portal",
-        "continent": "Africa"   
+        "name": "Stafford University Uganda",
+        "country": "Uganda",
+        "location": "Kisugu",
+        "continent": "Africa"
     },
     {
-        "name":"University of the Sacred Heart Gulu",
-        "country":"Uganda", 
-        "location":"Gulu",
-        "continent": "Africa"   
+        "name": "Uganda Christian University",
+        "country": "Uganda",
+        "location": "Mengo",
+        "continent": "Africa"
     },
     {
-        "name":"Uganda Technology and Management University",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Uganda Martyrs University",
+        "country": "Uganda",
+        "location": "Mukono",
+        "continent": "Africa"
     },
     {
-        "name":"Victoria University Uganda",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "St. Lawrence University",
+        "country": "Uganda",
+        "location": "Nkozi",
+        "continent": "Africa"
     },
     {
-        "name":"Ibanda University",
-        "country":"Uganda", 
-        "location":"Ibanda",
-        "continent": "Africa"   
+        "name": "University of Kisubi",
+        "country": "Uganda",
+        "location": "Kisubi",
+        "continent": "Africa"
     },
     {
-        "name":"Limkokwing University of Creative Technology",
-        "country":"Uganda", 
-        "location":"Namataba",
-        "continent": "Africa"   
+        "name": "Uganda Pentecostal University",
+        "country": "Uganda",
+        "location": "Fort Portal",
+        "continent": "Africa"
     },
     {
-        "name":"African Bible University",
-        "country":"Uganda", 
-        "location":"Lubowa",
-        "continent": "Africa"   
+        "name": "University of the Sacred Heart Gulu",
+        "country": "Uganda",
+        "location": "Gulu",
+        "continent": "Africa"
     },
     {
-        "name":"Metropolitan International University",
-        "country":"Uganda", 
-        "location":"Bufumbira",
-        "continent": "Africa"   
+        "name": "Uganda Technology and Management University",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Busitema University",
-        "country":"Uganda", 
-        "location":"Busitema",
-        "continent": "Africa"   
+        "name": "Victoria University Uganda",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Gulu University",
-        "country":"Uganda", 
-        "location":"Gulu",
-        "continent": "Africa"   
+        "name": "Ibanda University",
+        "country": "Uganda",
+        "location": "Ibanda",
+        "continent": "Africa"
     },
     {
-        "name":"Kabale University",
-        "country":"Uganda", 
-        "location":"Kabale",
-        "continent": "Africa"   
+        "name": "Limkokwing University of Creative Technology",
+        "country": "Uganda",
+        "location": "Namataba",
+        "continent": "Africa"
     },
     {
-        "name":"Kyambogo University",
-        "country":"Uganda", 
-        "location":"Kyambogo",
-        "continent": "Africa"   
+        "name": "African Bible University",
+        "country": "Uganda",
+        "location": "Lubowa",
+        "continent": "Africa"
     },
     {
-        "name":"Lira University",
-        "country":"Uganda", 
-        "location":"Lira",
-        "continent": "Africa"   
+        "name": "Metropolitan International University",
+        "country": "Uganda",
+        "location": "Bufumbira",
+        "continent": "Africa"
     },
     {
-        "name":"Makerere University",
-        "country":"Uganda", 
-        "location":"Makerere",
-        "continent": "Africa"   
+        "name": "Busitema University",
+        "country": "Uganda",
+        "location": "Busitema",
+        "continent": "Africa"
     },
     {
-        "name":"Makerere University Business School",
-        "country":"Uganda", 
-        "location":"Nakawa",
-        "continent": "Africa"   
+        "name": "Gulu University",
+        "country": "Uganda",
+        "location": "Gulu",
+        "continent": "Africa"
     },
     {
-        "name":"Mbarara University of Science and Technology",
-        "country":"Uganda", 
-        "location":"Mbarara",
-        "continent": "Africa"   
+        "name": "Kabale University",
+        "country": "Uganda",
+        "location": "Kabale",
+        "continent": "Africa"
     },
     {
-        "name":"Muni University",
-        "country":"Uganda", 
-        "location":"Arua",
-        "continent": "Africa"   
+        "name": "Kyambogo University",
+        "country": "Uganda",
+        "location": "Kyambogo",
+        "continent": "Africa"
     },
     {
-        "name":"Soroti University",
-        "country":"Uganda", 
-        "location":"Soroti",
-        "continent": "Africa"   
+        "name": "Lira University",
+        "country": "Uganda",
+        "location": "Lira",
+        "continent": "Africa"
     },
     {
-        "name":"Uganda Management Institute",
-        "country":"Uganda", 
-        "location":"Kampala",
-        "continent": "Africa"   
+        "name": "Makerere University",
+        "country": "Uganda",
+        "location": "Makerere",
+        "continent": "Africa"
     },
     {
-        "name":"Adama University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Makerere University Business School",
+        "country": "Uganda",
+        "location": "Nakawa",
+        "continent": "Africa"
     },
     {
-        "name":"Addis Ababa Commercial College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Mbarara University of Science and Technology",
+        "country": "Uganda",
+        "location": "Mbarara",
+        "continent": "Africa"
     },
     {
-        "name":"Addis Ababa Science and Technology University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Muni University",
+        "country": "Uganda",
+        "location": "Arua",
+        "continent": "Africa"
     },
     {
-        "name":"Addis Ababa University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Soroti University",
+        "country": "Uganda",
+        "location": "Soroti",
+        "continent": "Africa"
     },
     {
-        "name":"Addis Continental Institute of Public Health",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Uganda Management Institute",
+        "country": "Uganda",
+        "location": "Kampala",
+        "continent": "Africa"
     },
     {
-        "name":"Adigrat University",
-        "country":"Ethopia", 
-        "location":"Tigray",
-        "continent": "Africa"   
+        "name": "Adama University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Admas University College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Addis Ababa Commercial College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"ALKAN Health Science Business and Technology College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Addis Ababa Science and Technology University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Ambo University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Addis Ababa University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Arba Minch University",
-        "country":"Ethopia", 
-        "location":"SNNPR",
-        "continent": "Africa"   
+        "name": "Addis Continental Institute of Public Health",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Arsi University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Adigrat University",
+        "country": "Ethopia",
+        "location": "Tigray",
+        "continent": "Africa"
     },
     {
-        "name":"Axum University",
-        "country":"Ethopia", 
-        "location":"Tigray",
-        "continent": "Africa"   
+        "name": "Admas University College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Bahir Dar University",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "ALKAN Health Science Business and Technology College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"City University College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Ambo University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Closys College",
-        "country":"Ethopia", 
-        "location":"Tigray",
-        "continent": "Africa"   
+        "name": "Arba Minch University",
+        "country": "Ethopia",
+        "location": "SNNPR",
+        "continent": "Africa"
     },
     {
-        "name":"Dandii Boruu College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Arsi University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Debre Berhan University",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "Axum University",
+        "country": "Ethopia",
+        "location": "Tigray",
+        "continent": "Africa"
     },
     {
-        "name":"Debre Markos University",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "Bahir Dar University",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"Defence University College of Engineering",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "City University College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Dessie Teacher's Education College",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "Closys College",
+        "country": "Ethopia",
+        "location": "Tigray",
+        "continent": "Africa"
     },
     {
-        "name":"Dilla University",
-        "country":"Ethopia", 
-        "location":"SNNPR",
-        "continent": "Africa"   
+        "name": "Dandii Boruu College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Dire Dawa University",
-        "country":"Ethopia", 
-        "location":"Dire Dawa",
-        "continent": "Africa"   
+        "name": "Debre Berhan University",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"Dynamic International University College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Debre Markos University",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"Ethiopian Catholic University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Defence University College of Engineering",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Ethiopian Civil Service University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Dessie Teacher's Education College",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"Ethiopian Institute of Architecture, Building Construction and City Development",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Dilla University",
+        "country": "Ethopia",
+        "location": "SNNPR",
+        "continent": "Africa"
     },
     {
-        "name":"Grace College of Business and Computer Science",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Dire Dawa University",
+        "country": "Ethopia",
+        "location": "Dire Dawa",
+        "continent": "Africa"
     },
     {
-        "name":"Haramaya University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Dynamic International University College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Hawassa University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Ethiopian Catholic University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Infonet College",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Ethiopian Civil Service University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"International Leadership Institute",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Ethiopian Institute of Architecture, Building Construction and City Development",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Jethro Leadership & Management Institute",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Grace College of Business and Computer Science",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Jijiga University",
-        "country":"Ethopia", 
-        "location":"Somali",
-        "continent": "Africa"   
+        "name": "Haramaya University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Jimma College of Teachers Education",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Hawassa University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Jimma Teachers College",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Infonet College",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Jimma University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "International Leadership Institute",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Kunuz College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Jethro Leadership & Management Institute",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Madda Walabu University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Jijiga University",
+        "country": "Ethopia",
+        "location": "Somali",
+        "continent": "Africa"
     },
     {
-        "name":"Mekelle Institute of Technology",
-        "country":"Ethopia", 
-        "location":"Tigray",
-        "continent": "Africa"   
+        "name": "Jimma College of Teachers Education",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Mekelle University",
-        "country":"Ethopia", 
-        "location":"Tigray",
-        "continent": "Africa"   
+        "name": "Jimma Teachers College",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Mizan–Tepi University",
-        "country":"Ethopia", 
-        "location":"South West",
-        "continent": "Africa"   
+        "name": "Jimma University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"New Generation University College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Kunuz College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"PESC Information Systems College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Madda Walabu University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Rift Valley University College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Mekelle Institute of Technology",
+        "country": "Ethopia",
+        "location": "Tigray",
+        "continent": "Africa"
     },
     {
-        "name":"Royal College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Mekelle University",
+        "country": "Ethopia",
+        "location": "Tigray",
+        "continent": "Africa"
     },
     {
-        "name":"Samara University",
-        "country":"Ethopia", 
-        "location":"Afar",
-        "continent": "Africa"   
+        "name": "Mizan–Tepi University",
+        "country": "Ethopia",
+        "location": "South West",
+        "continent": "Africa"
     },
     {
-        "name":"St. Mary's University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "New Generation University College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"St. Paul's Hospital Millennium Medical College",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "PESC Information Systems College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Unity University",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Rift Valley University College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Urban Planning College (Ecole)",
-        "country":"Ethopia", 
-        "location":"Addis Ababa",
-        "continent": "Africa"   
+        "name": "Royal College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"University of Gondar",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "Samara University",
+        "country": "Ethopia",
+        "location": "Afar",
+        "continent": "Africa"
     },
     {
-        "name":"Wachemo University",
-        "country":"Ethopia", 
-        "location":"SNNPR",
-        "continent": "Africa"   
+        "name": "St. Mary's University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Washera College",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "St. Paul's Hospital Millennium Medical College",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Wolaita Sodo University",
-        "country":"Ethopia", 
-        "location":"SNNPR",
-        "continent": "Africa"   
+        "name": "Unity University",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Wollega University",
-        "country":"Ethopia", 
-        "location":"Oromia",
-        "continent": "Africa"   
+        "name": "Urban Planning College (Ecole)",
+        "country": "Ethopia",
+        "location": "Addis Ababa",
+        "continent": "Africa"
     },
     {
-        "name":"Wollo University",
-        "country":"Ethopia", 
-        "location":"Amhara",
-        "continent": "Africa"   
+        "name": "University of Gondar",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"University of Dar es Salaam",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Wachemo University",
+        "country": "Ethopia",
+        "location": "SNNPR",
+        "continent": "Africa"
     },
     {
-        "name":"University of Dodoma",
-        "country":"Tanzania", 
-        "location":"Dodoma",
-        "continent": "Africa"   
+        "name": "Washera College",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"The Open University of Tanzania",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Wolaita Sodo University",
+        "country": "Ethopia",
+        "location": "SNNPR",
+        "continent": "Africa"
     },
     {
-        "name":"Institute of Accountancy Arusha",
-        "country":"Tanzania", 
-        "location":"Arusha",
-        "continent": "Africa"   
+        "name": "Wollega University",
+        "country": "Ethopia",
+        "location": "Oromia",
+        "continent": "Africa"
     },
     {
-        "name":"Ardhi University",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Wollo University",
+        "country": "Ethopia",
+        "location": "Amhara",
+        "continent": "Africa"
     },
     {
-        "name":"State University of Zanzibar",
-        "country":"Tanzania", 
-        "location":"Zanzibar Urban",
-        "continent": "Africa"   
+        "name": "University of Dar es Salaam",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"Mzumbe University",
-        "country":"Tanzania", 
-        "location":"Morogoro",
-        "continent": "Africa"   
+        "name": "University of Dodoma",
+        "country": "Tanzania",
+        "location": "Dodoma",
+        "continent": "Africa"
     },
     {
-        "name":"Sokoine University of Agriculture",
-        "country":"Tanzania", 
-        "location":"Morogoro",
-        "continent": "Africa"   
+        "name": "The Open University of Tanzania",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"Muhimbili University of Health and Allied Sciences",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Institute of Accountancy Arusha",
+        "country": "Tanzania",
+        "location": "Arusha",
+        "continent": "Africa"
     },
     {
-        "name":"Nelson Mandela African Institute of Science and Technology",
-        "country":"Tanzania", 
-        "location":"Arusha",
-        "continent": "Africa"   
+        "name": "Ardhi University",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"UKatavi University of Agriculture",
-        "country":"Tanzania", 
-        "location":"Katavi",
-        "continent": "Africa"   
+        "name": "State University of Zanzibar",
+        "country": "Tanzania",
+        "location": "Zanzibar Urban",
+        "continent": "Africa"
     },
     {
-        "name":"Mbeya University of Science and Technology",
-        "country":"Tanzania", 
-        "location":"Mbeya",
-        "continent": "Africa"   
+        "name": "Mzumbe University",
+        "country": "Tanzania",
+        "location": "Morogoro",
+        "continent": "Africa"
     },
     {
-        "name":"Moshi Co-operative University",
-        "country":"Tanzania", 
-        "location":"Kilimanjaro",
-        "continent": "Africa"   
+        "name": "Sokoine University of Agriculture",
+        "country": "Tanzania",
+        "location": "Morogoro",
+        "continent": "Africa"
     },
     {
-        "name":"Hubert Kairuki Memorial University",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Muhimbili University of Health and Allied Sciences",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"International Medical and Technological University",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Nelson Mandela African Institute of Science and Technology",
+        "country": "Tanzania",
+        "location": "Arusha",
+        "continent": "Africa"
     },
     {
-        "name":"Tumaini University Makumira",
-        "country":"Tanzania", 
-        "location":"Arusha",
-        "continent": "Africa"   
+        "name": "UKatavi University of Agriculture",
+        "country": "Tanzania",
+        "location": "Katavi",
+        "continent": "Africa"
     },
     {
-        "name":"St. Augustine University of Tanzania",
-        "country":"Tanzania", 
-        "location":"Mwanza",
-        "continent": "Africa"   
+        "name": "Mbeya University of Science and Technology",
+        "country": "Tanzania",
+        "location": "Mbeya",
+        "continent": "Africa"
     },
     {
-        "name":"Zanzibar University",
-        "country":"Tanzania", 
-        "location":"Zanzibar Urban",
-        "continent": "Africa"   
+        "name": "Moshi Co-operative University",
+        "country": "Tanzania",
+        "location": "Kilimanjaro",
+        "continent": "Africa"
     },
     {
-        "name":"Mount Meru University",
-        "country":"Tanzania", 
-        "location":"Arusha",
-        "continent": "Africa"   
+        "name": "Hubert Kairuki Memorial University",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"University of Arusha",
-        "country":"Tanzania", 
-        "location":"Arusha",
-        "continent": "Africa"   
+        "name": "International Medical and Technological University",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
     },
     {
-        "name":"Teofilo Kisanji University",
-        "country":"Tanzania", 
-        "location":"Mbeya",
-        "continent": "Africa"   
+        "name": "Tumaini University Makumira",
+        "country": "Tanzania",
+        "location": "Arusha",
+        "continent": "Africa"
     },
     {
-        "name":"Muslim University of Morogoro",
-        "country":"Tanzania", 
-        "location":"Morogoro",
-        "continent": "Africa"   
+        "name": "St. Augustine University of Tanzania",
+        "country": "Tanzania",
+        "location": "Mwanza",
+        "continent": "Africa"
     },
     {
-        "name":"St. John's University of Tanzania",
-        "country":"Tanzania", 
-        "location":"Dodoma",
-        "continent": "Africa"   
+        "name": "Zanzibar University",
+        "country": "Tanzania",
+        "location": "Zanzibar Urban",
+        "continent": "Africa"
     },
     {
-        "name":"University of Bagamoyo",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "Mount Meru University",
+        "country": "Tanzania",
+        "location": "Arusha",
+        "continent": "Africa"
+    },
+    {
+        "name": "University of Arusha",
+        "country": "Tanzania",
+        "location": "Arusha",
+        "continent": "Africa"
+    },
+    {
+        "name": "Teofilo Kisanji University",
+        "country": "Tanzania",
+        "location": "Mbeya",
+        "continent": "Africa"
+    },
+    {
+        "name": "Muslim University of Morogoro",
+        "country": "Tanzania",
+        "location": "Morogoro",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. John's University of Tanzania",
+        "country": "Tanzania",
+        "location": "Dodoma",
+        "continent": "Africa"
+    },
+    {
+        "name": "University of Bagamoyo",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Eckernforde Tanga University",
+        "country": "Tanzania",
+        "location": "Tanga",
+        "continent": "Africa"
+    },
+    {
+        "name": "Catholic University of Health and Allied Sciences",
+        "country": "Tanzania",
+        "location": "Mwanza",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. Joseph University In Tanzania",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "United African University of Tanzania",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sebastian Kolowa Memorial University",
+        "country": "Tanzania",
+        "location": "Tanga",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tanzania International University",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "University of Iringa",
+        "country": "Tanzania",
+        "location": "Iringa",
+        "continent": "Africa"
+    },
+    {
+        "name": "University College of Education Zanzibar",
+        "country": "Tanzania",
+        "location": "Zanzibar Urban",
+        "continent": "Africa"
+    },
+    {
+        "name": "Dar es Salaam University College of Education",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Moshi University College of Cooperative and Business Studies",
+        "country": "Tanzania",
+        "location": "Kilimanjaro",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mkwawa University College of Education",
+        "country": "Tanzania",
+        "location": "Iringa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mwalimu Nyerere Memorial Academy",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kampala International University Dar es Salaam College",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mwenge University College of Education",
+        "country": "Tanzania",
+        "location": "Kilimanjaro",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kilimanjaro Christian Medical College",
+        "country": "Tanzania",
+        "location": "Kilimanjaro",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ruaha Catholic University",
+        "country": "Tanzania",
+        "location": "Iringa",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. Francis University College of Health and Allied Sciences",
+        "country": "Tanzania",
+        "location": "Morogoro",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. Joseph University College of Agricultural Sciences and Technology",
+        "country": "Tanzania",
+        "location": "Ruvuma",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. Joseph University College of Information and Technology",
+        "country": "Tanzania",
+        "location": "Ruvuma",
+        "continent": "Africa"
+    },
+    {
+        "name": "St. Joseph University College of Management and Commerce",
+        "country": "Tanzania",
+        "location": "Njombe",
+        "continent": "Africa"
+    },
+    {
+        "name": "Stefano Moshi Memorial University College",
+        "country": "Tanzania",
+        "location": "Kilimanjaro",
+        "continent": "Africa"
+    },
+    {
+        "name": "Stella Maris Mtwara University College",
+        "country": "Tanzania",
+        "location": "Mtwara",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tumaini University Dar es Salaam College",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al-Maktoum College of Engineering and Technology",
+        "country": "Tanzania",
+        "location": "Dar es Salaam",
+        "continent": "Africa"
+    },
+    {
+        "name": "Academy of Engineering Sciences",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ahfad University for Women",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al Fashir University",
+        "country": "Sudan",
+        "location": "El Fasher",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nobles College for science and technology",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "AlMughtaribeen University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al-Neelain University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al Zaiem Alazhari University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bayan College for Science & Technology",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Blue Nile University",
+        "country": "Sudan",
+        "location": "Ad-Damazeen",
+        "continent": "Africa"
+    },
+    {
+        "name": "Canadian Sudanese College",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Dalanj University",
+        "country": "Dalang",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "El Imam El Mahdi University",
+        "country": "Sudan",
+        "location": "Kosti",
+        "continent": "Africa"
+    },
+    {
+        "name": "Elrazi University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Future University of Sudan",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "University of Garden City",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gezira College for Technology",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ibn Sina University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "International University of Africa",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Karary University",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
+    },
+    {
+        "name": "Khartoum College of Medical Sciences",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mashreq University",
+        "country": "Sudan",
+        "location": "Khartoum North",
+        "continent": "Africa"
+    },
+    {
+        "name": "INahda College",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "National College of Khartoum (NCK)",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "National College for Medical & Technical Studies",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "National Ribat University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Elobied college for science and Technology",
+        "country": "Sudan",
+        "location": "Al-Ubayyid",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nile College",
+        "country": "Sudan",
+        "location": "Bahri",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nile Valley University",
+        "country": "Sudan",
+        "location": "Atbara",
+        "continent": "Africa"
+    },
+    {
+        "name": "Omdurman Ahlia University",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
+    },
+    {
+        "name": "Omdurman Islamic University",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
+    },
     {
-        "name":"Eckernforde Tanga University",
-        "country":"Tanzania", 
-        "location":"Tanga",
-        "continent": "Africa"   
-    }, 
+        "name": "Open University of Sudan",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
+    {
+        "name": "Public Health Institute",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"Catholic University of Health and Allied Sciences",
-        "country":"Tanzania", 
-        "location":"Mwanza",
-        "continent": "Africa"   
-    }, 
+        "name": "Red Sea University",
+        "country": "Sudan",
+        "location": "Port Sudan",
+        "continent": "Africa"
+    },
     {
-        "name":"St. Joseph University In Tanzania",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "Riyadh International College",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"United African University of Tanzania",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "Hayatt university College",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"Sebastian Kolowa Memorial University",
-        "country":"Tanzania", 
-        "location":"Tanga",
-        "continent": "Africa"   
-    }, 
+        "name": "Sudan International University",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"Tanzania International University",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "Sharq El Neal College",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"University of Iringa",
-        "country":"Tanzania", 
-        "location":"Iringa",
-        "continent": "Africa"   
-    }, 
+        "name": "Sudan University of Science and Technology",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"University College of Education Zanzibar",
-        "country":"Tanzania", 
-        "location":"Zanzibar Urban",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Bakht Al-Ruda",
+        "country": "Sudan",
+        "location": "Al-Dewaym",
+        "continent": "Africa"
+    },
     {
-        "name":"Dar es Salaam University College of Education",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Bahri",
+        "country": "Sudan",
+        "location": "Bahri",
+        "continent": "Africa"
+    },
     {
-        "name":"Moshi University College of Cooperative and Business Studies",
-        "country":"Tanzania", 
-        "location":"Kilimanjaro",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Dongola",
+        "country": "Sudan",
+        "location": "Dongola",
+        "continent": "Africa"
+    },
     {
-        "name":"Mkwawa University College of Education",
-        "country":"Tanzania", 
-        "location":"Iringa",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Al Qadarif",
+        "country": "Sudan",
+        "location": "Al Qadarif",
+        "continent": "Africa"
+    },
     {
-        "name":"Mwalimu Nyerere Memorial Academy",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Gezira",
+        "country": "Sudan",
+        "location": "Wad Medani",
+        "continent": "Africa"
+    },
     {
-        "name":"Kampala International University Dar es Salaam College",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Kassala",
+        "country": "Sudan",
+        "location": "Kassala",
+        "continent": "Africa"
+    },
     {
-        "name":"Mwenge University College of Education",
-        "country":"Tanzania", 
-        "location":"Kilimanjaro",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Khartoum",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"Kilimanjaro Christian Medical College",
-        "country":"Tanzania", 
-        "location":"Kilimanjaro",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Kordofan",
+        "country": "Sudan",
+        "location": "Al-Ubayyid",
+        "continent": "Africa"
+    },
     {
-        "name":"Ruaha Catholic University",
-        "country":"Tanzania", 
-        "location":"Iringa",
-        "continent": "Africa"   
-    }, 
+        "name": "University of Medical Sciences and Technology",
+        "country": "Sudan",
+        "location": "Khartoum",
+        "continent": "Africa"
+    },
     {
-        "name":"St. Francis University College of Health and Allied Sciences",
-        "country":"Tanzania", 
-        "location":"Morogoro",
-        "continent": "Africa"   
+        "name": "University of Nyala",
+        "country": "Sudan",
+        "location": "Nyala",
+        "continent": "Africa"
     },
     {
-        "name":"St. Joseph University College of Agricultural Sciences and Technology",
-        "country":"Tanzania", 
-        "location":"Ruvuma",
-        "continent": "Africa"   
+        "name": "University of Science and Technology",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
     },
     {
-        "name":"St. Joseph University College of Information and Technology",
-        "country":"Tanzania", 
-        "location":"Ruvuma",
-        "continent": "Africa"   
+        "name": "University of Sennar",
+        "country": "Sudan",
+        "location": "Sennar",
+        "continent": "Africa"
     },
     {
-        "name":"St. Joseph University College of Management and Commerce",
-        "country":"Tanzania", 
-        "location":"Njombe",
-        "continent": "Africa"   
+        "name": "University of Shendi",
+        "country": "Sudan",
+        "location": "Shendi",
+        "continent": "Africa"
     },
     {
-        "name":"Stefano Moshi Memorial University College",
-        "country":"Tanzania", 
-        "location":"Kilimanjaro",
-        "continent": "Africa"   
+        "name": "University of the Holy Quran and Islamic Sciences",
+        "country": "Sudan",
+        "location": "Omdurman",
+        "continent": "Africa"
     },
     {
-        "name":"Stella Maris Mtwara University College",
-        "country":"Tanzania", 
-        "location":"Mtwara",
-        "continent": "Africa"   
+        "name": "University of West Kordofan",
+        "country": "Sudan",
+        "location": "Al-Foula",
+        "continent": "Africa"
     },
     {
-        "name":"Tumaini University Dar es Salaam College",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "University of Zalingei",
+        "country": "Sudan",
+        "location": "Zalingei",
+        "continent": "Africa"
     },
     {
-        "name":"Al-Maktoum College of Engineering and Technology",
-        "country":"Tanzania", 
-        "location":"Dar es Salaam",
-        "continent": "Africa"   
+        "name": "Wad Medani Ahlia College",
+        "country": "Sudan",
+        "location": "Wad Medani",
+        "continent": "Africa"
     }
 ]
