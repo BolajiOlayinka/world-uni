@@ -1816,5 +1816,185 @@
         "country": "Sudan",
         "location": "Wad Medani",
         "continent": "Africa"
+    },
+    {
+        "name": "Ecole Nationale d'Architecture",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al Akhawayn University",
+        "country": "Morocco",
+        "location": "Ifran",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole des Hautes Etudes en Gestion Informatique et Communication",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole Mohammadia d'Ingénieurs",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole National d'Agriculture de Meknes",
+        "country": "Morocco",
+        "location": "Meknes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole Supérieure de Commerce et des Affaires",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Ibn Zohr Agadir",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institut Supérieur de Commerce et d'Administration des Entreprises",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole des Hautes Etudes Commerciales MAROC",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institut des Hautes Etudes de Management",
+        "country": "Morocco",
+        "location": "Tanger",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole Supérieure d'Informatique et de Management",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "International Institute for Higher Education",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institute of Management and Business Technology",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institut National des Postes et Télécommunications",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "ISFORT - Institut de Formation en Technologie Alimentaire",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institut Supérieur de Management et de Technologie (MATCI)",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan II - Aïn Chock",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Moulay Ismail Meknès",
+        "country": "Morocco",
+        "location": "Meknes",
+        "continent": "Africa"
+    },
+    {
+        "name": "",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ecole Superieure des Télécommunications",
+        "country": "Morocco",
+        "location": "Barrault",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Abdelmalek Essadi",
+        "country": "Morocco",
+        "location": "Tétouan",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Cadi Ayyad",
+        "country": "Morocco",
+        "location": "Marrakech",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Chouaib Doukkali",
+        "country": "Morocco",
+        "location": "El Jadida",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan Ier - Settat",
+        "country": "Morocco",
+        "location": "Settat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan II - Mohammadia",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V - Agdal",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V - Souissi",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Ibn Toufail",
+        "country": "Morocco",
+        "location": "Kenitra",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed Ier",
+        "country": "Morocco",
+        "location": "Oujda",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
     }
 ]
