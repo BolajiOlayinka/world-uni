@@ -1996,5 +1996,284 @@
         "country": "Morocco",
         "location": "Fes",
         "continent": "Africa"
+    },
+
+
+    
+    {
+        "name": "Sidi Mohammed Ben Abdellah University",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cadi Ayyad University",
+        "country": "Morocco",
+        "location": "Marrakech",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ibn Zohr University",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Ibnou Zohr Faculté des Sciences Juridiques Économiques et Sociales Agadir",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed Premier Oujda",
+        "country": "Morocco",
+        "location": "Oujda",
+        "continent": "Africa"
+    },
+    {
+        "name": "Al Akhawayn University",
+        "country": "Morocco",
+        "location": "Ifrane",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah Faculté de Medécine et de Pharmacie de Fes",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Ibnou Zohr Faculté des Sciences d'Agadir",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Universite Ibnou Zohr Faculté des Lettres et des Sciences Humaines Agadir",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah Faculté des Sciences Dhar El Mahraz",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sultan Moulay Slimane Faculté des Lettres et Sciences Humaines Beni Mellal",
+        "country": "Morocco",
+        "location": "Beni-Mellal",
+        "continent": "Africa"
+    },
+    {
+        "name": "FSJES",
+        "country": "Morocco",
+        "location": "Marrakech",
+        "continent": "Africa"
+    },
+    {
+        "name": "Moulay Ismail University",
+        "country": "Morocco",
+        "location": "Meknes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah École Supérieure de Technologie de Fes",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan I Settat Faculté des Sciences et Techniques de Settat",
+        "country": "Morocco",
+        "location": "Settat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Centre de Formation des Inspecteurs de l'Enseignement",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V Agdal Faculté des Sciences Rabat",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V Agdal École Mohammadia d'Ingénieurs",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institute for Advanced Studies in Management",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Cadi Ayyad École Nationale des Sciences Appliquées Marrakech",
+        "country": "Morocco",
+        "location": "Marrakech",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Abdelmalek Essaadi Faculté des Sciences Tetouan",
+        "country": "Morocco",
+        "location": "Tetouan",
+        "continent": "Africa"
+    },
+    {
+        "name": "International University of Rabat",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Hassan I University",
+        "country": "Morocco",
+        "location": "Settat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan II Ain Chock Faculté des Sciences Ain Chock Casablanca",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Moulay Ismail Faculté des Sciences Juridiques Economiques et Sociales Meknè",
+        "country": "Morocco",
+        "location": "Mekne",
+        "continent": "Africa"
+    },
+    {
+        "name": "Chouaïb Doukkali University",
+        "country": "Morocco",
+        "location": "El Jadida",
+        "continent": "Africa"
+    },
+    {
+        "name": "Advanced Technical Teacher Training College of Mohammedia",
+        "country": "Morocco",
+        "location": "Mohammedia",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Moulay Ismail École Nationale Supérieure d'Arts et Métiers Meknès",
+        "country": "Morocco",
+        "location": "Meknes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Moulay Ismail Faculté des Sciences de Meknès",
+        "country": "Morocco",
+        "location": "Meknes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sultan Moulay Slimane Faculté des Sciences et Techniques de Beni-Mellal",
+        "country": "Morocco",
+        "location": "Beni-Mellal",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah Faculté des Sciences et Techniques Fes",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Abdelmalek Essaadi Faculté des Sciences et Techniques de Tanger",
+        "country": "Morocco",
+        "location": "Tangier",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V Souissi",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Abdelmalek Essaadi Faculté des Lettres et des Sciences Humaines Tètouan",
+        "country": "Morocco",
+        "location": "Tètouan",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institute of Applied Computer Studies and Management",
+        "country": "Morocco",
+        "location": "Agadir",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institute of Commercial Studies and Business Administration",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan II Mohammedia Faculté des Lettres et Sciences Humaines Ben M'sick",
+        "country": "Morocco",
+        "location": "Mohammedia",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Mohammed V Agdal Faculté des Lettres et des Sciences Humaines Rabat",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sultan Moulay Slimane University Beni-Mellal",
+        "country": "Morocco",
+        "location": "Beni-Mellal",
+        "continent": "Africa"
+    },
+    {
+        "name": "Higher Magistracy Institute",
+        "country": "Morocco",
+        "location": "Beni-Mellal",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Sidi Mohammed Ben Abdellah École Nationale des Sciences Appliquées Fès",
+        "country": "Morocco",
+        "location": "Fes",
+        "continent": "Africa"
+    },
+    {
+        "name": "École Marocaine d'Ingénierie EMG",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "National Institute of Post and Telecommunications",
+        "country": "Morocco",
+        "location": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "name": "Institut des Hautes Etudes en Paramédical du Sud IHEPS",
+        "country": "Morocco",
+        "location": "Marrakech",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan II Ain Chock Faculté de Médecine et de Pharmacie Casablanca",
+        "country": "Morocco",
+        "location": "Cassablanca",
+        "continent": "Africa"
+    },
+    {
+        "name": "Université Hassan I Settat Faculté Polydisciplinaire Khouribga",
+        "country": "Morocco",
+        "location": "Settat",
+        "continent": "Africa"
     }
 ]
